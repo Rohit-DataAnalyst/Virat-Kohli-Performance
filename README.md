@@ -79,5 +79,5 @@ Key visualizations in the Power BI report:
 ## Author
 **Rohit**  
 *Data Analyst*  
-LinkedIn: www.linkedin.com/in/rohit-data-analyst(#)
-Email: rohitkanojiya248@gmail.com(#)
+LinkedIn: www.linkedin.com/in/rohit-data-analyst
+Email: rohitkanojiya248@gmail.com

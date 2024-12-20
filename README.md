@@ -8,10 +8,12 @@ This project analyzes Virat Kohli's cricket performance across different match f
 ## Problem Statement
 
 Understanding a player's performance trends and key metrics is crucial for strategic decision-making in cricket. This project aims to:
-Analyze Virat Kohli's performance across different formats to identify strengths and areas of improvement.
-Highlight key trends in his batting statistics, including strike rate, boundary-hitting ability, and consistency.
+- **Analyze Virat Kohli's performance across different formats to identify strengths and areas of improvement.**
+- **Highlight key trends in his batting statistics, including strike rate, boundary-hitting ability, and consistency.**
+- **Provide insights into his dismissal patterns and favorite venues, helping cricket analysts and enthusiasts better understand his game.**
 
-Provide insights into his dismissal patterns and favorite venues, helping cricket analysts and enthusiasts better understand his game.
+---
+
 ## Dataset Description
 The dataset contains Virat Kohli's performance records with the following key columns:
 - **Runs**: Runs scored in each match.

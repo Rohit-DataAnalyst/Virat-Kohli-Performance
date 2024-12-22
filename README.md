@@ -31,7 +31,10 @@ The dataset contains Virat Kohli's performance records with the following key co
 
 ![Screenshot 2024-12-20 194509](https://github.com/user-attachments/assets/e84a8398-b4d8-4e36-b41e-03ce8eb3f49f)
 
-<iframe title="Virat Kohli Performance" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWYwNjUxMmEtYTM5NS00ZmI5LTk0OGItM2QyZDE5MmM3MzlhIiwidCI6IjU1MTFiODM3LWE1Y2EtNDY3Yy1iZDQzLWZkNDFjZWJiMGM1ZCJ9" frameborder="0" allowFullScreen="true"></iframe>
+---
+
+[View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWYwNjUxMmEtYTM5NS00ZmI5LTk0OGItM2QyZDE5MmM3MzlhIiwidCI6IjU1MTFiODM3LWE1Y2EtNDY3Yy1iZDQzLWZkNDFjZWJiMGM1ZCJ9&pageName=da24854d2e3009a40508)
+
 ---
 
 ## Key Insights

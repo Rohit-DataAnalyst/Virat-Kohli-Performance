@@ -5,6 +5,17 @@ This project analyzes Virat Kohli's cricket performance across different match f
 
 ---
 
+![Screenshot 2024-12-20 194509](https://github.com/user-attachments/assets/e84a8398-b4d8-4e36-b41e-03ce8eb3f49f)
+
+---
+<div align="center">
+  <p>
+
+## [Checkout the Power BI Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZWYwNjUxMmEtYTM5NS00ZmI5LTk0OGItM2QyZDE5MmM3MzlhIiwidCI6IjU1MTFiODM3LWE1Y2EtNDY3Yy1iZDQzLWZkNDFjZWJiMGM1ZCJ9&pageName=da24854d2e3009a40508)
+</p>
+</div>
+---
+
 ## Problem Statement
 Understanding a player's performance trends and key metrics is crucial for strategic decision-making in cricket. This project aims to:
 - Analyze Virat Kohli's performance across different formats to identify strengths and areas of improvement.
@@ -27,17 +38,6 @@ The dataset contains Virat Kohli's performance records with the following key co
 - **Ground**: Match venue.
 - **Match Date**: Date of the match.
 
----
-
-![Screenshot 2024-12-20 194509](https://github.com/user-attachments/assets/e84a8398-b4d8-4e36-b41e-03ce8eb3f49f)
-
----
-<div align="center">
-  <p>
-
-## [Checkout the Power BI Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZWYwNjUxMmEtYTM5NS00ZmI5LTk0OGItM2QyZDE5MmM3MzlhIiwidCI6IjU1MTFiODM3LWE1Y2EtNDY3Yy1iZDQzLWZkNDFjZWJiMGM1ZCJ9&pageName=da24854d2e3009a40508)
-</p>
-</div>
 ---
 
 ## Key Insights

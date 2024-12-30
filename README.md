@@ -5,15 +5,16 @@ This project analyzes Virat Kohli's cricket performance across different match f
 
 ---
 
-![Screenshot 2024-12-20 194509](https://github.com/user-attachments/assets/e84a8398-b4d8-4e36-b41e-03ce8eb3f49f)
-
----
 <div align="center">
   <p>
 
 ## [Checkout the Power BI Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZWYwNjUxMmEtYTM5NS00ZmI5LTk0OGItM2QyZDE5MmM3MzlhIiwidCI6IjU1MTFiODM3LWE1Y2EtNDY3Yy1iZDQzLWZkNDFjZWJiMGM1ZCJ9&pageName=da24854d2e3009a40508)
 </p>
 </div>
+---
+
+![Screenshot 2024-12-20 194509](https://github.com/user-attachments/assets/e84a8398-b4d8-4e36-b41e-03ce8eb3f49f)
+
 ---
 
 ## Problem Statement
